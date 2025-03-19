@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Ankit Maurya</h1>
-<h3 align="left">I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
+<h3 align="left">I am a Versatilist and Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="320px"/>
 
  🔭 I’m currently working on *Something New*
 
-- 🌱 I’m currently learning *AngularJS*
+- 🌱 I’m currently learning *ReactJS*
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shwetra.github.io/) & [Github](https://github.com/ankitmaurya50)
 
