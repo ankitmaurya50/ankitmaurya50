@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [Email](mailto:ankitup50maurya@gmail.com) & [LinkedIn](https://www.linkedin.com/in/ankitmaurya7/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lAgmsuEXy-MQ0p055kTRZ_H1toco2HPy/view)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1EEwHHWLYlqdLm8d0FKAgaGyQ80NSLuN5/edit)
 
 - 💼 Experienced in Agile methodologies, passionate about continuous learning, and skilled in writing clean, scalable code.
   
